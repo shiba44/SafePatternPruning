@@ -1,0 +1,14 @@
+BasedOnStyle: 'Google'
+IndentWidth: 2
+AccessModifierOffset: -2
+AlignConsecutiveAssignments: true
+AlignConsecutiveDeclarations: false
+AlignTrailingComments: true
+BinPackArguments: false
+BinPackParameters: false
+BreakBeforeBinaryOperators: 'None'
+BreakBeforeBraces: 'Linux'
+UseTab: 'Never'
+AlignAfterOpenBracket: true
+PointerAlignment: 'Left'
+BreakConstructorInitializersBeforeComma: true
